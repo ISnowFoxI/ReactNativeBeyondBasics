@@ -1,6 +1,6 @@
 import React from 'react';
-import { Home } from '../screens/HomeScreen';
-import { History } from '../screens/HistoryScreen';
+import { Home } from './HomeScreen';
+import { History } from './HistoryScreen';
 import { Analytics } from './AnalyticsScreen';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
